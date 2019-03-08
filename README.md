@@ -6,7 +6,7 @@ Build Docker image (first time only)
 ```
 make build
 ```
-Build fat jar
+Build fat jar (run docker container and  build jar inside)
 ```
 make assembly
 ```
